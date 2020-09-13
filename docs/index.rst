@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   *
+   ./_book/agile-estimating-and-planning/*
 
 
 
