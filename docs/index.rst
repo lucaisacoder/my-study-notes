@@ -1,25 +1,12 @@
-.. Read the Docs Template documentation master file, created by
-   sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. 觅个地方存知识积累，同时也给需要的人分享。
 
-Welcome to Read the Docs Template's documentation!
+读书笔记
 ==================================================
-
-Contents:
 
 .. toctree::
    :maxdepth: 2
    :glob:
 
-   ./_book/agile-estimating-and-planning/*
+   _book/agile-estimating-and-planning/*
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 

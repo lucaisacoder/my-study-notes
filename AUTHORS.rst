@@ -1,7 +1,6 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Lucas Hsueh <lucas_hsueh@hotmail.com>
 
 
