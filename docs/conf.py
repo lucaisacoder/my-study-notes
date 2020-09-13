@@ -204,8 +204,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'ReadtheDocsTemplate.tex', u'Read the Docs Template1 Documentation',
-   u'Read the Docs', 'manual'),
+  ('index', 'my-study-notes.tex', u'My Study Notes',
+   u'lucas_hsueh@hotmail.com', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -249,7 +249,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'my-study-notes', u'My Study Notes',
-   u'lucas_hsueh@hotmail.com', 'ReadtheDocsTemplate111111', 'One line description of project.',
+   u'lucas_hsueh@hotmail.com', 'my-study-notes', 'One line description of project.',
    'Miscellaneous'),
 ]
 
