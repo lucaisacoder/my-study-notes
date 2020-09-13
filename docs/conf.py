@@ -248,8 +248,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ReadtheDocsTemplate', u'Read the Docs Template Documentation',
-   u'Read the Docs', 'ReadtheDocsTemplate', 'One line description of project.',
+  ('index', 'my-study-notes', u'My Study Notes',
+   u'lucas_hsueh@hotmail.com', 'ReadtheDocsTemplate111111', 'One line description of project.',
    'Miscellaneous'),
 ]
 
