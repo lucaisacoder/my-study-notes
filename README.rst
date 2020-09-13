@@ -68,4 +68,4 @@ Copyright notice
 Copyright (c) 2020, lucas_hsueh@hotmail.com.
 All rights reserved.
 
-See the file "LICENSE.rst" for more information.
+See the file "LICENSE" for more information.
