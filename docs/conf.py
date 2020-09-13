@@ -205,7 +205,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'my-study-notes.tex', u'My Study Notes',
-   u'lucas_hsueh@hotmail.com', 'manual'),
+   u'Lucas Hsueh', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -235,7 +235,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'my-study-notes', u'My Study Notes',
-     [u'lucas_hsueh@hotmail.com'], 1)
+     [u'Lucas Hsueh'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -249,7 +249,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'my-study-notes', u'My Study Notes',
-   u'lucas_hsueh@hotmail.com', 'my-study-notes', 'One line description of project.',
+   u'Lucas Hsueh', 'my-study-notes', 'One line description of project.',
    'Miscellaneous'),
 ]
 
