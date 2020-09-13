@@ -190,6 +190,14 @@ latex_elements = {
 
 # Additional stuff for the LaTeX preamble.
 #'preamble': '',
+
+# Latex figure (float) alignment
+#'figure_align': 'htbp',
+
+# Using Package for ZH
+'preamble' : r'''
+\usepackage{ctex}
+''',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
